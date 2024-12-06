@@ -24,6 +24,5 @@ h3 {
 
 body  {
   padding: 10px;
-  background-image: url("%PUBLIC_URL%/moroccan-flower.png");
-  background-repeat: repeat;
+  background-color: gainsboro;
 }
