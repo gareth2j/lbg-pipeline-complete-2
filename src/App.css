@@ -4,7 +4,7 @@
 }
 
 .colour-border{
-  border: 3px solid red;
+  border: 3px solid teal;
   padding: 10px;
 }
 
@@ -13,14 +13,16 @@
 }
 
 h1 { 
-    color: maroon;
+  font-family: Arial, Helvetica, sans-serif;  
+  color: maroon;
 }
 
 h3 { 
   color: slategray;
+  font-family: monospace;
 }
 
 body  {
   padding: 10px;
-  background-color: white;
+  background-color: gainsboro;
 }
